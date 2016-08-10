@@ -1,0 +1,11 @@
+cloud-init development has moved its revision control to git.
+It is available at 
+  https://code.launchpad.net/cloud-init
+
+Clone with 
+  git clone https://git.launchpad.net/cloud-init
+or
+  git clone git+ssh://git.launchpad.net/cloud-ini
+
+For more information see
+  https://git.launchpad.net/cloud-init/tree/HACKING.rst
